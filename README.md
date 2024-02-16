@@ -22,11 +22,11 @@ Contextual Query Assistant is a chatbot designed to help users extract informati
 
 ## Configuration
 
-> If using Google Generative AI features, provide your Google API key in `app.py`.
+> If you plan to utilize Google Generative AI features, ensure to provide your Google API key within the `app.py` file.
 
-## Contributing
+## Contribution Guidelines
 
-> Contributions are welcome! Please open an issue or submit a pull request for any improvements or fixes.
+> We welcome contributions! Whether you've found a bug, have an idea for an improvement, or want to implement a new feature, please feel free to open an issue or submit a pull request. Your contributions help make this project better for everyone.
 
 ## License
 
