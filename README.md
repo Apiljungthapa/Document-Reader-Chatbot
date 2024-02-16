@@ -9,3 +9,8 @@ Contextual Query Assistant is a chatbot designed to help users extract informati
 ```bash
 pip install -r requirements.txt
 
+#2. Run app:
+streamlit run app.py
+
+#3.upload documents and ask questions:
+
