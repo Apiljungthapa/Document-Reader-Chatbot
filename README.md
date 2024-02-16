@@ -8,3 +8,12 @@ To install the dependencies, run:
 
 ```bash
 pip install -r requirements.txt
+
+Usage
+To run the application, execute the following command:
+
+bash
+Copy code
+streamlit run app.py
+
+upload pdf then ask query
