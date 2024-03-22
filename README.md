@@ -30,4 +30,4 @@ Contextual Query Assistant is a chatbot designed to help users extract informati
 
 ## License
 
-> MIT License
+> MIT License https://github.com/Apiljungthapa/chatbot/blob/main/LICENSE
